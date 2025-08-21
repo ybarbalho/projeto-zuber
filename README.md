@@ -6,11 +6,11 @@ A partir da análise, buscamos identificar **oportunidades estratégicas** para 
 
 ## 📑 Índice
 
-- [Visão Geral](#visao-geral)
-- [Análises Realizadas](#analises-realizadas)
-- [Recursos](#recursos)
-- [Visualizações](#visualizacoes)
-- [Conclusão](#conclusao)
+- 🔭 [Visão Geral](#visao-geral)
+- 📊 [Análises Realizadas](#analises-realizadas)
+- 🔧 [Recursos](#recursos)
+- 🖼️ [Visualizações](#visualizacoes)
+- 🎯 [Conclusão](#conclusao)
 
 ---
 
